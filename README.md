@@ -18,7 +18,7 @@ Abstract Test Suite for INSPIRE Download Services WFS &amp; FE direct access dow
 
 ## TG Requirement coverage
 
-Based on requirement numbering in [TG VS](#ref_TG_VS).
+Based on requirement numbering in [TG DL](#ref_TG_DL).
 
 | Req#   | Description                          | Covered by test(s)                 | IR reference(s)                  |
 | ------ | ------------------------------------ | ---------------------------------- | -------------------------------- |
